@@ -22,7 +22,7 @@ Chamada:
 ```sh
 java -jar target/sysmanager-crypto.jar --encrypt=ABCDEFGH
 ```
-Resultado esperado no response:
+Resultado esperado na tela:
 
 ```sh
 DEFGHIJK
@@ -33,7 +33,7 @@ Chamada:
 ```sh
 java -jar target/sysmanager-crypto.jar --decrypt=ABCDEFGH
 ```
-Resultado esperado no response:
+Resultado esperado na tela:
 
 ```sh
 XYZABCDE
