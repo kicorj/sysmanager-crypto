@@ -39,6 +39,17 @@ Resultado esperado na tela:
 XYZABCDE
 ```
 
+Chamada:
+
+```sh
+java -jar target/sysmanager-crypto.jar --encrypt=A1B2C3D4E5F6G7H
+```
+Resultado esperado na tela:
+
+```sh
+D1E2F3G4H5I6J7K
+```
+
 ## Autor
 
 * **Francisco Cardoso** - [https://github.com/kicorj](https://github.com/kicorj)
